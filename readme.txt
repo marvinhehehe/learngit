@@ -1,3 +1,5 @@
 BUAA_OSLAB
-On branch master
-nothing to commit, working tree clean
+/bin/bash: :q: command not found
+this is the first change 
+try the auto_merge
+why it isn't work????????
